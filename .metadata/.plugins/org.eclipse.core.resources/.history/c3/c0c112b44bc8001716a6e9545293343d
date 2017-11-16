@@ -1,0 +1,20 @@
+package hzmaven.hello;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class CalculatorMutipart {
+	private Calculator calculator;
+	
+	@Before
+	public void setUp(){
+		this.calculator=new Calculator();
+	}
+	@Test
+	public void testMultipart() {
+		
+	}
+
+}

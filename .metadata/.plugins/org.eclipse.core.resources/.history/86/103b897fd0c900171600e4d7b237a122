@@ -1,0 +1,14 @@
+package spring.practice;
+
+public class ServicePerson {
+	private Person person;
+	
+	public ServicePerson(Person person){
+		this.person=person;
+	}
+	
+	public void personId(){
+		System.out.println(b);
+		
+	}
+}

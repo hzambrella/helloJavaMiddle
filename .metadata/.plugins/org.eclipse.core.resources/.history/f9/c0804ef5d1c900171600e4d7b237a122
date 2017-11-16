@@ -1,0 +1,14 @@
+package spring.practice;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class testService {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

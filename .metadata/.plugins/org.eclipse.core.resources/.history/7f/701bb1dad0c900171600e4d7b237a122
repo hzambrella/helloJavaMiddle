@@ -1,0 +1,16 @@
+package spring.practice;
+
+public class StoneAxe implements Axe {
+	
+	private Sting name;
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void chop() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

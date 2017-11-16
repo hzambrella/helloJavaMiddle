@@ -1,0 +1,16 @@
+package spring.practice;
+
+public class StoneAxe implements Axe {
+	
+	private String name;
+	private String speed;
+	
+	public String getName() {
+		return this.name;
+	}
+
+	public String chop() {
+		
+	}
+
+}

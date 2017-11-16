@@ -1,0 +1,10 @@
+package proxy;
+
+public class TargetProxyDynamic implements TargetInterface {
+
+	public void business() {
+		
+
+	}
+
+}

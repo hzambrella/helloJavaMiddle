@@ -1,0 +1,45 @@
+package hzmaven.hello;
+
+import junit.framework.TestCase;
+
+public class CaculatorTest extends TestCase {
+	private Calculator calculator;
+
+	protected void setUp() throws Exception {
+		Calculator caculator = new Calculator();
+		caculator.clear();
+		super.setUp();
+	}
+
+	public void testAdd() {
+		calculator.add(1);
+		calculator.add(1);
+		assertEquals(calculator.getResult(), 2);
+	}
+
+	public void testSubtract() {
+		calculator.add(10);
+		calculator.subtract(2);
+		assertEquals(calculator.getResult(), 8);
+	}
+
+	public void testDivide() {
+		calculator.add(8);
+		calculator.divide(2);
+		assertTrue(calculator.getResult() == 5);
+	}
+
+	public void testDivideByZero() {
+		try {
+			calculator.divide(0);
+			fail();
+		} catch (ArithmeticException e) {
+		}
+	}
+
+	public void notReadyYetTestMultiply() {
+		calculator.add(10);
+		calculator.multiply(10);
+		assertEquals(calculator.getResult(), 100);
+	}
+}

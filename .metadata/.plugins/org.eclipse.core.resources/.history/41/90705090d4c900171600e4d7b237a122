@@ -1,0 +1,25 @@
+package spring.practice;
+
+/**石头斧头
+ * 
+ * @author 50448
+ *
+ */
+public class StoneAxe implements Axe {
+	
+	private String name;
+	private int speed;
+	
+	public StoneAxe(){
+		this.name=this.getClass().getName();
+	}
+	
+	public String getName() {
+		return this.name;
+	}
+
+	public int chop() {
+		return this.speed;
+	}
+
+}

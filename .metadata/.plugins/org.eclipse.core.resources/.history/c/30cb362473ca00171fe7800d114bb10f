@@ -1,0 +1,25 @@
+package proxy;
+
+import static org.junit.Assert.*;
+import net.sf.cglib.proxy.Proxy;
+
+import org.junit.Test;
+
+public class TestTargetProxyCglib {
+	
+	@Test
+	public void test1() {
+		TargetInterface target=new TargetBusiness();
+		TargetProxyCglibInterceptor proxyCglib=new TargetProxyCglibInterceptor(target);
+		//动态地返回代理对象TargetBusiness，父类引用指向子类对象。
+		TargetBusiness tb=(TargetBusiness) proxyCglib.createProxy();
+		tb.business();
+		tb.business2();
+	}
+	
+	@Test
+	public void test2(){
+		TargetInterface target=new TargetBusiness();
+	}
+
+}

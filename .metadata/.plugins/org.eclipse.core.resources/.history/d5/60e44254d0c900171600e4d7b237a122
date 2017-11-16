@@ -1,0 +1,7 @@
+package spring.practice;
+
+public class ServicePerson {
+	public void ServicePerson(){
+		
+	}
+}

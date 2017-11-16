@@ -1,0 +1,13 @@
+package hzmaven.hello;
+
+import junit.framework.TestCase;
+
+public class CaculatorTest extends TestCase {
+	private  Calculator calculator;
+	protected void setUp() throws Exception {
+		Calculator caculator=new Calculator();
+		caculator.clear();
+		super.setUp();
+	}
+
+}

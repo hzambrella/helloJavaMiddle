@@ -1,0 +1,10 @@
+package spring.practice;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.FileSystemXmlApplicationContext;
+
+public class PersonChopMain {
+	public static void main(String[] args){
+		ApplicationContext ctx = new FileSystemXmlApplicationContext("spring.xml");  
+	}
+}

@@ -1,0 +1,43 @@
+package proxy;
+
+import java.lang.reflect.Method;
+
+import net.sf.cglib.proxy.Enhancer;
+import net.sf.cglib.proxy.MethodInterceptor;
+import net.sf.cglib.proxy.MethodProxy;
+
+/**
+ * 子类代理  不需要接口TargetInterface
+ * 测试见TargetProxyCglib
+ * @author 50448
+ * 
+ */
+// 关键1 MethodInterceptor
+public class TargetProxyCglib implements MethodInterceptor {
+	private TargetInterface target;
+
+	public TargetProxyCglib(TargetInterface target) {
+		this.target = target;
+
+	}
+
+	public Object createProxy() {
+		// 1.工具类
+		Enhancer en = new Enhancer();
+		// 2.设置父类
+		en.setSuperclass(target.getClass());
+		// 3.设置回调函数
+		en.setCallback(this);
+		// 4.创建子类(代理对象)
+		return en.create();
+	}
+
+	public Object intercept(Object object, Method method, Object[] arg2,
+			MethodProxy proxy) throws Throwable {
+		System.out.println("pefore do business"+object.getClass().getName());
+		method.invoke(target,arg2);
+		System.out.println("after do business"+proxy.getClass().getName());
+		return null;
+	}
+
+}

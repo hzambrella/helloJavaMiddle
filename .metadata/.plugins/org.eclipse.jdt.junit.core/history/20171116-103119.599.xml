@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestTargetProxyCglib" project="hello" tests="2" started="2" failures="0" errors="0" ignored="1">
+  <testsuite name="proxy.TestTargetProxyCglib" time="0.038">
+    <testcase name="test2" classname="proxy.TestTargetProxyCglib" time="0.037"/>
+    <testcase name="test1" classname="proxy.TestTargetProxyCglib" time="0.001" ignored="true"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,14 @@
+package proxy;
+/**被代理类
+ * 
+ * @author 50448
+ *
+ */
+public class TargetBusiness implements TargetInterface{
+
+	public void business() {
+		System.out.println("doing  Business");
+		
+	}
+
+}

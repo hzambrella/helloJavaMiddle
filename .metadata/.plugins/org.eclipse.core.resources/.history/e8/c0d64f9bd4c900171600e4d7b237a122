@@ -1,0 +1,17 @@
+package spring.practice;
+
+/**中国人
+ * 
+ * @author 50448
+ *
+ */
+public class Chinese implements Person {
+	//砍柴速度
+	private int speed;
+	private Axe axe;
+
+	public int useAxe() {
+		return axe.chop()+this.speed;
+	}
+
+}

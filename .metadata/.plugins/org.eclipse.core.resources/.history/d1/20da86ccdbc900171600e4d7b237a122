@@ -1,0 +1,34 @@
+package spring.practice;
+
+import org.springframework.stereotype.Component;
+
+/**石头斧头
+ * 
+ * @author 50448
+ *
+ */
+
+@Component("StoneAxe")
+public class StoneAxe implements Axe {
+	
+	private String name;
+	@Value()
+	private int speed;
+	
+	public StoneAxe(){
+		this.name=this.getClass().getName();
+	}
+	
+	public void setSpeed(int speed){
+		this.speed=speed;
+	}
+	
+	public String getName() {
+		return this.name;
+	}
+
+	public int chop() {
+		return this.speed;
+	}
+
+}

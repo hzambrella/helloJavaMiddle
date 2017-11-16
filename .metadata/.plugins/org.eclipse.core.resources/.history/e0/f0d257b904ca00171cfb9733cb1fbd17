@@ -1,0 +1,8 @@
+package proxy;
+
+public class targetProxyStatic implements target{
+	
+	public  void business() {
+		System.out.println("do business");
+	}
+}

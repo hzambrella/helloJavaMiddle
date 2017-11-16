@@ -1,0 +1,9 @@
+package proxy;
+/** 子类代理
+ * 
+ * @author 50448
+ *
+ */
+public class TargetProxyCglib {
+
+}

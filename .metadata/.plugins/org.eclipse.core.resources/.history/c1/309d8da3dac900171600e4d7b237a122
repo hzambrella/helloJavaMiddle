@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd 
+    http://www.springframework.org/schema/context  
+    http://www.springframework.org/schema/context/spring-context-2.5.xsd">
+
+	<context:component-scan base-package="spring.practice" />
+	<bean
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+
+		<property name="locations">
+			<list>
+				<value>classpath:info/info.properties</value>
+			</list>
+		</property>
+	</bean>
+
+
+	<bean id="stoneAxe" class="spring.practice.StoneAxe">
+		<property name="speed" value="1">
+		</property>
+
+	</bean>
+	<bean id="steelAxe" class="spring.practice.SteelAxe">
+		<property name="speed" value="3">
+		</property>
+	</bean>
+
+	<!-- <bean id="Chinese" class="spring.practice.Chinese"> <property name="speed" 
+		value="3"></property> <property name="axe" ref="steelAxe"></property> </bean> -->
+	<bean id="Japanese" class="spring.practice.Japanese">
+		<property name="speed" value="1"></property>
+		<property name="axe" ref="stoneAxe"></property>
+	</bean>
+
+</beans>  

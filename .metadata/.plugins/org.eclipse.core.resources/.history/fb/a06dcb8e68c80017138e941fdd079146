@@ -1,0 +1,23 @@
+package hzmaven.hello;
+
+import static org.junit.Assert.*;
+
+import java.util.Collection;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.Parameterized;
+import org.junit.runners.Parameterized.Parameters;
+
+@RunWith(Parameterized.class)
+public class CalculatorParameterized {
+	int expected;
+	int input1;
+	int input2;
+	
+	@Parameters
+	public static Collection<Object[]> hahaha(){
+		
+	}
+
+}

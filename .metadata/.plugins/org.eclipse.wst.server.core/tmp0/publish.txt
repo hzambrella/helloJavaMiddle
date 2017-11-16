@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Nov 14 20:47:04 CST 2017
+org.eclipse.jst.jee.server\:springMVC=D\:\\apache-tomcat-7.0.82\\wtpwebapps\\springMVC
+org.eclipse.jst.jee.server\:/binary\:E\:\\jp_my_ws\\springMVC\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-3.2.4.RELEASE.jar=D\:\\apache-tomcat-7.0.82\\wtpwebapps\\springMVC\\WEB-INF\\lib\\spring-web-3.2.4.RELEASE.jar

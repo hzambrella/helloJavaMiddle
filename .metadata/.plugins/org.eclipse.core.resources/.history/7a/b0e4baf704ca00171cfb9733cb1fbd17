@@ -1,0 +1,10 @@
+package proxy;
+
+public class TargetBusiness implements TargetInterface{
+
+	public void business() {
+		System.out.println()
+		
+	}
+
+}

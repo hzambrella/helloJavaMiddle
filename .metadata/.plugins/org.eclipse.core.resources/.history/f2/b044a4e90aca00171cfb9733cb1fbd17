@@ -1,0 +1,14 @@
+package proxy;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class TestTargetProxyCglib {
+	
+	@Test
+	public void test() {
+		TargetInterface targe=new TargetBusiness();
+	}
+
+}
