@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<beans xmlns="http://www.springframework.org/schema/beans"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"  
+    xmlns:context="http://www.springframework.org/schema/context"  
+    xmlns:mvc="http://www.springframework.org/schema/mvc"  
+    xsi:schemaLocation="http://www.springframework.org/schema/beans   
+        http://www.springframework.org/schema/beans/spring-beans-3.2.xsd   
+        http://www.springframework.org/schema/context   
+        http://www.springframework.org/schema/context/spring-context-3.2.xsd   
+        http://www.springframework.org/schema/mvc    
+        http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd">  
+ 
+ 		<!-- 扫描的包 -->
+	<context:component-scan base-package="spring.practice" />
+	<context:component-scan base-package="jdbc.practice" />
+ 
+    <!-- Default View Resolver 重要-->
+    <bean id="viewResolver"
+        class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="viewClass"
+            value="org.springframework.web.servlet.view.JstlView" />
+        <property name="prefix" value="/WEB-INF/" />
+        <property name="suffix" value=".jsp" />
+    </bean>
+ 
+    <!-- Default ExceptionHandler -->
+  <!--   <bean id="defaultExceptionHandler"
+    class="org.springframework.web.portlet.handler.SimpleMappingExceptionResolver">
+        <property name="order" value="10" />
+        <property name="defaultErrorView" value="error" />
+        <property name="exceptionMappings">
+            <props>
+            <prop key="javax.portlet.UnavailableException">unavailable</prop>
+            <prop key="java.lang.Exception">error</prop>
+            </props>
+        </property>
+    </bean> -->
+    
+    <!-- 读取properties文件 -->
+	<bean
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+
+		<property name="locations">
+			<list>
+				<value>classpath:pageInfo.properties</value>
+			</list>
+		</property>
+	</bean>
+ 
+</beans>

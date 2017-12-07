@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<configuration>
+	<!-- 给类一个短名字 -->
+	<typeAliases>
+		<typeAlias alias="mobileBook" type="springMavenPluto.model.MobileBookModel" />
+	</typeAliases>
+	
+	<!-- dataSource和enviroment就不需要了 -->
+
+	<mappers>
+		<mapper resource="My_mobileBook.xml" />
+	</mappers>
+
+</configuration>

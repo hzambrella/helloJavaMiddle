@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<!-- mybatis 主要 -->
+
+<configuration>
+	<!-- 属性 -->
+	<properties>
+		<!-- 准许默认的属性值，如下面的username默认是root -->
+		<property
+			name="org.apache.ibatis.parsing.PropertyParser.enable-default-value"
+			value="true" />
+		<property name="password" value="haozhoa" />
+	</properties>
+	
+	<!-- 给类一个短名字 -->
+	<typeAliases>
+		<typeAlias alias="User" type="model.practice.User" />
+		<typeAlias alias="Article" type="model.practice.Article" />
+	</typeAliases>
+
+	<environments default="development">
+		<environment id="development">
+			<transactionManager type="JDBC" />
+			<dataSource type="POOLED">
+				<property name="driver" value="com.mysql.jdbc.Driver" />
+				<property name="url" value="jdbc:mysql://127.0.0.1:3306/hz_test" />
+				<property name="username" value="${username:root}" />
+				<property name="password" value="${password}" />
+			</dataSource>
+		</environment>
+	</environments>
+
+	<mappers>
+		<mapper resource="My_User.xml" />
+	</mappers>
+
+</configuration>

@@ -1,7 +1,0 @@
-package proxy;
-
-public class targetProxyStaticImpl implements targetToProxy{
-	
-	public  void bussiness() {
-	}
-}

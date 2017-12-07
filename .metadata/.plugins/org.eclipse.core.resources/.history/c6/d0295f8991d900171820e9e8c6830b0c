@@ -1,0 +1,11 @@
+AnnotationPluto.viewPage=aView
+AnnotationPluto.editPage=aEdit
+AnnotationPluto.helpPage=aHelp
+AnnotationPluto.welcomeMessage=hello annotation
+
+SSMPluto.viewPage=ssmView.ftl
+
+SSMPluto.editPage=ssmEdit
+SSMPluto.helpPage=ssmHelp
+
+common.failPage=failPage

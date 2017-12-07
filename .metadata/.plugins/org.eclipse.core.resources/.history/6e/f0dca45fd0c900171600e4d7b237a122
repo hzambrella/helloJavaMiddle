@@ -1,9 +1,0 @@
-package spring.practice;
-
-public class ServicePerson {
-	private Person person
-	
-	public void ServicePerson(Person person){
-		this.person=person;
-	}
-}

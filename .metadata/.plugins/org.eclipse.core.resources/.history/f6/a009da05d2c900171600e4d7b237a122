@@ -1,7 +1,0 @@
-package spring.practice;
-
-public class personChop {
-	public static main(String[] args){
-		
-	}
-}

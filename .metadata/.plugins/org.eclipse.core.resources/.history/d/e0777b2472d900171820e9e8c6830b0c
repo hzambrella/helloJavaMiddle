@@ -1,0 +1,44 @@
+package springMavenPluto;
+
+import java.util.Map;
+
+import javax.annotation.Resource;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.test.context.ContextConfiguration;
+
+import springMavenPluto.View.Result;
+import springMavenPluto.model.MobileBookModel;
+import springMavenPluto.service.mobileBookApi;
+
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+
+@SuppressWarnings("rawtypes")
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration(locations={"classpath:applicationContext.xml"})
+public class TestMobileBook {
+	@Resource(name="mobileBookApi")
+	private mobileBookApi mba;
+
+	@Test
+	public void testGet() {
+		Result result=mba.getMobileByUserId(1);
+		Map map=result.getMap();
+		System.out.println(map);
+	}
+	
+	@Test
+	public void testAdd() {
+		Result result=mba.addMobileByUserId(1, "ambrella", "110110");
+		Map map=result.getMap();
+		MobileBookModel mb=(MobileBookModel) map.get("result");
+		Integer id=mb.getId();
+		System.out.println(id);
+		mba.updateMobileById(id, null, "12313");
+		mba.getMobileById(id);
+		//mba.removeMobileByUserId(id);
+		//result.getMap();
+		//mba.removeMobileByUserId(id);
+	}
+}

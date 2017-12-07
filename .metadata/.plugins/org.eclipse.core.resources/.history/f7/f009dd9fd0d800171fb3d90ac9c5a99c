@@ -1,0 +1,12 @@
+package springMavenPluto.mapper;
+
+import java.util.List;
+
+import springMavenPluto.model.MobileBookModel;
+
+public interface mobileBookMapper {
+	public List<MobileBookModel> getMobileByUserId(Integer userId);
+	public boolean addMobileByUserId(MobileBookModel mb);
+	public  boolean updateMobileByUserId(MobileBookModel mb);
+
+}

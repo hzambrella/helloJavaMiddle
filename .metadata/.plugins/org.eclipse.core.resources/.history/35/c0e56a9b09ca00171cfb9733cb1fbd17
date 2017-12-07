@@ -1,5 +1,0 @@
-package proxy;
-/** 子类
-public class TargetProxyCglib {
-
-}

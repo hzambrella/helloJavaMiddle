@@ -1,0 +1,12 @@
+package springMavenPluto.Dao;
+
+import java.util.List;
+
+import springMavenPluto.model.MobileBookModel;
+
+public interface mobileBookMapper {
+	public List<MobileBookModel> selectMobileByUserId(Integer userId);
+	public boolean insertMobileByUserId(MobileBookModel mb);
+	public boolean updateMobileByUserId(@Param("id")Integer id,MobileBookModel mb);
+	public boolean removeMobileByUserId(Integer id);
+}

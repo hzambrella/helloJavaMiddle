@@ -1,0 +1,12 @@
+package springMavenPluto.service;
+
+import java.util.List;
+
+import springMavenPluto.model.MobileBookModel;
+
+public interface mobileBookApi {
+	public List<MobileBookModel> getMobileByUserId(Integer userId);
+	public boolean addMobileByUserId(Integer userId,String name,String number);
+	public boolean updateMobileByUserId(MobileBookModel mb);
+	public boolean removeMobileByUserId(Integer userId);
+}

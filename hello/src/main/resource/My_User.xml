@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- mabatis UserMapper -->
+<!-- 为了返回list 类型而定义的returnMap -->
+
+<mapper namespace="mybatis.practice.UserMapper">
+	<!--user result -->
+	<resultMap type="User" id="resultListUser">
+		<id column="id" property="id" />
+		<result column="userName" property="userName" />
+		<result column="userAge" property="userAge" />
+		<result column="userAddress" property="userAddress" />
+	</resultMap>
+
+	<!-- 连表查询 result -->
+	<!-- User 联合文章进行查询 方法之一的配置 (多对一的方式) -->
+	<resultMap id="resultUserArticleList" type="Article">
+		<id property="id" column="aid" />
+		<result property="title" column="title" />
+		<result property="content" column="content" />
+		<!--注意这里 -->
+		<!-- <association property="user" javaType="User"> <id property="id" column="userid" 
+			/> <result property="userName" column="userName" /> <result property="userAddress" 
+			column="userAddress" /> </association> -->
+		<!-- 复用resultMap -->
+		<association property="user" javaType="User" resultMap="resultListUser" />
+	</resultMap>
+
+
+	<!-- 简单查询 -->
+	<select id="selectUserByID" parameterType="int" resultType="User">
+		select id,userName,userAge,userAddress as address from user where id =
+		#{id}
+	</select>
+
+	<!-- 简单插入 -->
+	<insert id="insertUser" parameterType="User">
+		insert into user
+		<trim prefix="(" suffix=")" suffixOverrides=",">
+			<if test="userName!=null">
+				userName,
+			</if>
+			<if test="userAge">
+				userAge,
+			</if>
+			<if test="userAddress">
+				userAddress,
+			</if>
+		</trim>
+		<trim prefix="values (" suffix=")" suffixOverrides=",">
+			<if test="userName!=null">
+				#{userName},
+			</if>
+			<if test="userAge">
+				#{userAge},
+			</if>
+			<if test="userAddress">
+				#{userAddress},
+			</if>
+		</trim>
+	</insert>
+
+
+	<!-- 更新 -->
+	<update id="updateUser" parameterType="User">
+		update user
+		<set>
+			<if test="userName!=null">
+				userName=#{userName},
+			</if>
+			<if test="userAge!=null">
+				userAge=#{userAge},
+			</if>
+			<if test="userAddress!=null">
+				userAddress=#{userAddress},
+			</if>
+		</set>
+		<where>
+			id=#{id}
+		</where>
+	</update>
+	<!-- 删除 -->
+	<delete id="clearUser" parameterType="int">
+		delete from user where
+		id!=#{id}
+	</delete>
+
+
+	<!-- 查询多行 注意resultType和 resultMap -->
+	<!-- <select id="selectUser" resultMap="resultListUser"> -->
+	<select id="selectUser" resultType="User">
+		select * from user
+	</select>
+
+	<!-- 连表查询 注意resultMap -->
+	<select id="getUserArticles" parameterType="int"
+		resultMap="resultUserArticleList">
+		select user.id,user.userName,user.userAddress,article.id as
+		aid,
+		article.title,article.content from user left join article
+		on
+		user.id=article.userid where user.id=#{id}
+	</select>
+
+	<!-- 分页查询 -->
+	<select id="selectUserArticlesPage" resultMap="resultUserArticleList">
+		select
+		user.id,user.userName,user.userAddress,article.id as
+		aid,
+		article.title,article.content from user left join article
+		on
+		user.id=article.userid where user.id=#{id} limit #{limit} offset
+		#{offset}
+	</select>
+
+	<!-- 分页查询 -->
+	<select id="selectUserByIdAndName" resultType="java.util.Map">
+		SELECT id,(select count(article.id) from article where
+		article.userid=1) as article_num FROM hz_test.user where id=#{id} and userName=#{userName};
+	</select>
+</mapper>

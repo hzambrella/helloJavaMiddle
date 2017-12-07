@@ -1,0 +1,5 @@
+package springMavenPluto.DTO;
+
+public class MobileDTO {
+
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+    http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+    id="WebApp_ID" version="2.5">
+ 
+    <display-name>springMavenPluto</display-name>
+ 	<!-- pluto 的portlet要设置servlet ,IBM不需要 -->
+    <!-- 设定Spring的根上下文 -->
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>/WEB-INF/applicationContext.xml</param-value>
+    </context-param>
+ 
+    <listener>
+        <listener-class>
+            org.springframework.web.context.ContextLoaderListener
+        </listener-class>
+    </listener>
+ 
+    <!-- 设定ViewRendererServlet -->
+    <servlet>
+        <servlet-name>ViewRendererServlet</servlet-name>
+        <servlet-class>
+            org.springframework.web.servlet.ViewRendererServlet
+        </servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+ 
+    <servlet-mapping>
+        <servlet-name>ViewRendererServlet</servlet-name>
+        <url-pattern>/WEB-INF/servlet/view</url-pattern>
+    </servlet-mapping>
+     
+    <!-- 设定加载一个Portlet的Servlet, 该配置为Pluto所需-->
+    <!-- 原生的spring mvc portlet -->
+    <servlet>
+        <servlet-name>springMavenPluto1</servlet-name>
+        <servlet-class>
+        	<!--  org.apache.pluto.core.PortletServlet -->
+            org.apache.pluto.container.driver.PortletServlet
+        </servlet-class>
+        <init-param>
+            <param-name>portlet-name</param-name>
+            <param-value>springMavenPluto1</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+ 
+    <servlet-mapping>
+        <servlet-name>springMavenPluto1</servlet-name>
+        <url-pattern>/PlutoInvoker/springMavenPluto1</url-pattern>
+    </servlet-mapping>
+    
+    <!-- 基于spring注解的mvc portlet -->
+      <servlet>
+        <servlet-name>springAnnotationPluto</servlet-name>
+        <servlet-class>
+        	<!--  org.apache.pluto.core.PortletServlet -->
+            org.apache.pluto.container.driver.PortletServlet
+        </servlet-class>
+        <init-param>
+            <param-name>portlet-name</param-name>
+            <param-value>springAnnotationPluto</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+ 
+    <servlet-mapping>
+        <servlet-name>springAnnotationPluto</servlet-name>
+        <url-pattern>/PlutoInvoker/springAnnotationPluto</url-pattern>
+    </servlet-mapping>
+    
+    <!-- mybatis+spring+portlet mvc+pluto -->
+      <servlet>
+        <servlet-name>ssmPluto</servlet-name>
+        <servlet-class>
+        	<!--  org.apache.pluto.core.PortletServlet -->
+            org.apache.pluto.container.driver.PortletServlet
+        </servlet-class>
+        <init-param>
+            <param-name>portlet-name</param-name>
+            <param-value>ssmPluto</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+ 
+    <servlet-mapping>
+        <servlet-name>ssmPluto</servlet-name>
+        <url-pattern>/PlutoInvoker/ssmPluto</url-pattern>
+    </servlet-mapping>
+    
+</web-app>

@@ -1,0 +1,7 @@
+package springMavenPluto.DTO;
+
+public class MobileBookDTO {
+	public Integer UserId
+	public String 
+
+}

@@ -1,0 +1,6 @@
+package springMavenPluto.mapper;
+
+public interface mobileBookMapper {
+	public List<MobileBookModel> getMobileByUserId(Integer userId)£»
+
+}

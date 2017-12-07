@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd 
+    http://www.springframework.org/schema/context  
+    http://www.springframework.org/schema/context/spring-context-2.5.xsd">
+
+	<!-- Mybatis集成spring -->
+	
+	<!-- 读取properties文件 -->
+	<bean
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="locations">
+			<list>
+				<value>classpath:mysql.properties</value>
+			</list>
+		</property>
+	</bean>
+	
+	
+	<!-- 需要一个名字为dataSource的bean,否则报错-->
+	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
+		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
+		<property name="url" value="${hzdatabase.DB_URL}/${hzdatabase.hztest}" />
+		<property name="username" value="${hzdatabase.user}" />
+		<property name="password" value="${hzdatabase.pass}" />
+	</bean>
+
+	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+		<!--dataSource属性指定要用到的连接池 -->
+		<property name="dataSource" ref="dataSource" />
+		<!--configLocation属性指定mybatis的核心配置文件 -->
+		<property name="configLocation" value="Mybatis_Spring_Config.xml" />
+	</bean>
+
+	<bean id="userMapper" class="org.mybatis.spring.mapper.MapperFactoryBean">
+		<!--sqlSessionFactory属性指定要用到的SqlSessionFactory实例 -->
+		<property name="sqlSessionFactory" ref="sqlSessionFactory" />
+		<!--mapperInterface属性指定映射器接口，用于实现此接口并生成映射器对象 -->
+		<property name="mapperInterface" value="mybatis.practice.UserMapper" />
+	</bean>
+</beans>

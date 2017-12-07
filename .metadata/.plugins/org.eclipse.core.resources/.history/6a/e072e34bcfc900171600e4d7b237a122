@@ -1,5 +1,0 @@
-package practice.interfacce;
-
-public interface person {
-	void getUserId();
-}

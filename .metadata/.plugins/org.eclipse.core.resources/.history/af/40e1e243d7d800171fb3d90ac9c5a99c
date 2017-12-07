@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper namespace="springMavenPluto.Dao.mobileBookMapper">
+	<!-- 简单查询 -->
+	<select id="selectMobileByUserId" parameterType="int" resultType="mobileBook">
+		select userId,number,name from mobileBook where userId =
+		#{userId}
+	</select>
+
+	<!-- 简单插入 -->
+	<insert id="insertMobileByUserId" parameterType="mobileBook">
+		insert into mobileBook
+		<trim prefix="(" suffix=")" suffixOverrides=",">
+			<if test="userId!=null">
+				userId,
+			</if>
+			<if test="number!=null">
+				number,
+			</if>
+			<if test="name!=null">
+				name,
+			</if>
+		</trim>
+		<trim prefix="values (" suffix=")" suffixOverrides=",">
+			<if test="userId!=null">
+				#{userId},
+			</if>
+			<if test="number!=null">
+				#{number},
+			</if>
+			<if test="name!=null">
+				#{name},
+			</if>
+		</trim>
+	</insert>
+
+
+	<!-- 更新 -->
+	<update id="updateUser" parameterType="User">
+		update mobileBook
+		<set>
+			<if test="number!=null">
+				number=#{number},
+			</if>
+			<if test="name!=null">
+				name=#{name},
+			</if>
+		</set>
+		<where>
+			userId=#{userId}
+		</where>
+	</update>
+	<!-- 删除 -->
+	<delete id="clearUser" parameterType="int">
+		delete from mobileBook where
+		userId!=#{userId}
+	</delete>
+</mapper>

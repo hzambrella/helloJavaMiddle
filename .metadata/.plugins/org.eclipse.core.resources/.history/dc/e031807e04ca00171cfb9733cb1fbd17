@@ -1,8 +1,0 @@
-package proxy;
-
-public class targetProxyStaticImpl implements targetToProxy{
-	
-	public  void business() {
-		System.out.println("do ");
-	}
-}

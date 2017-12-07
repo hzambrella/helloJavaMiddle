@@ -1,7 +1,0 @@
-package proxy;
-
-import net.sf.cglib.proxy.MethodInterceptor;
-
-public class TargetCglibCallbackFilter  implements MethodInterceptor {
-
-}

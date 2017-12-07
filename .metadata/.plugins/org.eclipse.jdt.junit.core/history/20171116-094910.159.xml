@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="TestTargetProxyCglib" project="hello" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="proxy.TestTargetProxyCglib" time="0.039">
-    <testcase name="test" classname="proxy.TestTargetProxyCglib" time="0.039"/>
-  </testsuite>
-</testrun>

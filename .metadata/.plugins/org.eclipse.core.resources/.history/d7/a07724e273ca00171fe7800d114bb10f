@@ -1,7 +1,0 @@
-package proxy;
-
-import net.sf.cglib.proxy.FixedValue;
-
-public class TargetCglibFixed implements FixedValue{
-
-}

@@ -13,8 +13,8 @@
 		</list>
 	</section>
 	<section name="WorkbenchPreferenceDialogSettings">
-		<item value="9" key="DIALOG_Y_ORIGIN"/>
-		<item value="610" key="DIALOG_X_ORIGIN"/>
+		<item value="-262" key="DIALOG_Y_ORIGIN"/>
+		<item value="570" key="DIALOG_X_ORIGIN"/>
 	</section>
 	<section name="NewWizardAction">
 		<item value="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
@@ -22,9 +22,30 @@
 			<item value="org.eclipse.jdt.ui.java"/>
 			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.junit"/>
 			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.wst.jsdt.ui.java"/>
+			<item value="org.eclipse.jpt.jaxb"/>
+			<item value="org.eclipse.jpt.jpa"/>
 			<item value="org.eclipse.m2e"/>
+			<item value="org.eclipse.pde.PDE"/>
+			<item value="org.springframework.ide.eclipse.beans.ui.wizards.category"/>
+			<item value="org.eclipse.datatools.sql"/>
+			<item value="org.eclipse.team.svn.ui.repository"/>
+			<item value="org.tigris.subversion.subclipse.ui.svn"/>
+			<item value="org.eclipse.mylyn.ui.wizards.new"/>
+			<item value="org.eclipse.pde.userAssistance"/>
 			<item value="org.eclipse.wst.XMLCategory"/>
+			<item value="org.eclipse.ui.Examples"/>
 		</list>
+	</section>
+	<section name="FileExtensionDialogSettings">
+		<item value="613" key="DIALOG_WIDTH"/>
+		<item value="163" key="DIALOG_Y_ORIGIN"/>
+		<item value="375" key="DIALOG_HEIGHT"/>
+		<item value="93" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="EditorSelectionDialog">
+		<item value="false" key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL"/>
 	</section>
 	<section name="ImportExportAction">
 		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
