@@ -8,5 +8,8 @@
 </head>
 <body>
 <p>welcome哈哈!!!</p>
+<a href='http://localhost:8080/springMVC/beanMVC'>http://localhost:8080/springMVC/beanMVC 是原生的</p>
+<a href='http://localhost:8080/springMVC/hello'>http://localhost:8080/springMVC/hello 是注解的</p>
+<a href='http://localhost:8080/springMVC'>http://localhost:8080/springMVC 是欢迎缺省页</p>
 </body>
 </html>

@@ -11,11 +11,11 @@
         http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd">
 	<!-- 注解的方式千万别漏了，扫描的包 -->
 	<context:component-scan base-package="springMavenPluto" />
-	
+
 	<!-- 静态文件，webapp为根目录 -->
 	<mvc:resources mapping="/css/**" location="/css/" />
-    <mvc:resources mapping="/images/**" location="/images/" />
-    <mvc:resources mapping="/js/**" location="/js/" />
+	<mvc:resources mapping="/images/**" location="/images/" />
+	<mvc:resources mapping="/js/**" location="/js/" />
 
 	<!-- jsp view Resolver -->
 	<bean id="jspViewResolver"
@@ -24,26 +24,41 @@
 			value="org.springframework.web.servlet.view.JstlView" />
 		<property name="prefix" value="/WEB-INF/jsp/" />
 		<property name="suffix" value=".jsp" />
-		<property name="contentType" value="text/html;charset=UTF-8" />  
+		<property name="contentType" value="text/html;charset=UTF-8" />
 		<property name="order" value="1" />
 	</bean>
-	
-	
 
-     <!-- freemarker视图解析器 -->  
-     <bean  id="freeMakerViewResolver" class="org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver"> 
-        <property name="suffix" value=".ftl" />  
-        <property name="contentType" value="text/html;charset=UTF-8" />  
-        <!-- 此变量值为pageContext.request, 页面使用方法：rc.contextPath -->  
-        <property name="requestContextAttribute" value="rc" /> 
-         <property name="order" value="0" />  
-     </bean>  
-     
-     <!-- 配置freeMarker的模板路径 -->  
-     <bean class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">  
-        <property name="templateLoaderPath" value="WEB-INF/ftl/" />  
-        <property name="defaultEncoding" value="UTF-8" /> 
-     </bean>  
+	<bean id="multipartResolver"
+		class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+		 <property name="defaultEncoding" value="UTF-8"/> 
+		<property name="maxUploadSize">
+			<value>55242880
+			</value>
+		</property>
+	</bean>
+
+	<bean id="portletMultipartResolver"
+		class="org.springframework.web.portlet.multipart.CommonsPortletMultipartResolver">
+		 <property name="defaultEncoding" value="UTF-8"/> 
+		<property name="maxUploadSize" value="55242880" />
+	</bean>
+
+	<!-- freemarker视图解析器 -->
+	<bean id="freeMakerViewResolver"
+		class="org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver">
+		<property name="suffix" value=".ftl" />
+		<property name="contentType" value="text/html;charset=UTF-8" />
+		<!-- 此变量值为pageContext.request, 页面使用方法：rc.contextPath -->
+		<property name="requestContextAttribute" value="rc" />
+		<property name="order" value="0" />
+	</bean>
+
+	<!-- 配置freeMarker的模板路径 -->
+	<bean
+		class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">
+		<property name="templateLoaderPath" value="WEB-INF/ftl/" />
+		<property name="defaultEncoding" value="UTF-8" />
+	</bean>
 
 	<!-- Default ExceptionHandler -->
 	<!-- <bean id="defaultExceptionHandler" class="org.springframework.web.portlet.handler.SimpleMappingExceptionResolver"> 
@@ -64,41 +79,41 @@
 	</bean>
 
 	<!-- database -->
-	  <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"  
-        destroy-method="close">  
-        <property name="driverClassName" value="${mysql.driver}" />  
-        <property name="url" value="${mysql.url}" />  
-        <property name="username" value="${mysql.username}" />  
-        <property name="password" value="${mysql.password}" />  
-        <!-- 初始化连接大小 -->  
-        <property name="initialSize" value="${mysql.initialSize}"></property>  
-        <!-- 连接池最大数量 -->  
-        <property name="maxActive" value="${mysql.maxActive}"></property>  
-        <!-- 连接池最大空闲 -->  
-        <property name="maxIdle" value="${mysql.maxIdle}"></property>  
-        <!-- 连接池最小空闲 -->  
-        <property name="minIdle" value="${mysql.minIdle}"></property>  
-        <!-- 获取连接最大等待时间 -->  
-        <property name="maxWait" value="${mysql.maxWait}"></property>  
-    </bean>  
-    
-    <!-- mybatis的sessionFactory -->
-    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">  
-        <property name="dataSource" ref="dataSource" /> 
-        <!--configLocation属性指定mybatis的核心配置文件，文件里面配置别名和mapperXML -->
-		<property name="configLocation" value="classpath:mybatis_firstSSM.xml" /> 
-    </bean>  
+	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
+		destroy-method="close">
+		<property name="driverClassName" value="${mysql.driver}" />
+		<property name="url" value="${mysql.url}" />
+		<property name="username" value="${mysql.username}" />
+		<property name="password" value="${mysql.password}" />
+		<!-- 初始化连接大小 -->
+		<property name="initialSize" value="${mysql.initialSize}"></property>
+		<!-- 连接池最大数量 -->
+		<property name="maxActive" value="${mysql.maxActive}"></property>
+		<!-- 连接池最大空闲 -->
+		<property name="maxIdle" value="${mysql.maxIdle}"></property>
+		<!-- 连接池最小空闲 -->
+		<property name="minIdle" value="${mysql.minIdle}"></property>
+		<!-- 获取连接最大等待时间 -->
+		<property name="maxWait" value="${mysql.maxWait}"></property>
+	</bean>
 
-   <!--  mapper dao -->
-    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-    	<!-- dao mapper所要扫描的包 -->
-        <property name="basePackage" value="springMavenPluto.Dao"></property>
-        <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"></property>  
-    </bean>
+	<!-- mybatis的sessionFactory -->
+	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+		<property name="dataSource" ref="dataSource" />
+		<!--configLocation属性指定mybatis的核心配置文件，文件里面配置别名和mapperXML -->
+		<property name="configLocation" value="classpath:mybatis_firstSSM.xml" />
+	</bean>
 
-	<!--  事务 -->
-    <bean id="transactionManager"  
-        class="org.springframework.jdbc.datasource.DataSourceTransactionManager">  
-        <property name="dataSource" ref="dataSource" />  
-    </bean> 
+	<!-- mapper dao -->
+	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+		<!-- dao mapper所要扫描的包 -->
+		<property name="basePackage" value="springMavenPluto.Dao"></property>
+		<property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"></property>
+	</bean>
+
+	<!-- 事务 -->
+	<bean id="transactionManager"
+		class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
 </beans>

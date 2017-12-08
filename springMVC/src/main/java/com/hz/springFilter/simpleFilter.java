@@ -14,7 +14,7 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
  *
  */
 @Repository
-public class simpleFilter extends HandlerInterceptorAdapter {// 此处一般继承HandlerInterceptorAdapter适配器即可
+public class SimpleFilter extends HandlerInterceptorAdapter {// 此处一般继承HandlerInterceptorAdapter适配器即可
 	//计时
 	 private NamedThreadLocal<Long>  startTimeThreadLocal =   
 			 new NamedThreadLocal<Long>("StopWatch-StartTime");  

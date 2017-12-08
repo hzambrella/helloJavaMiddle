@@ -16,7 +16,7 @@ public class HelloBeanMVC implements Controller{
 	public ModelAndView handleRequest(HttpServletRequest req,
 			HttpServletResponse resp) throws Exception {
 		ModelAndView mv=new ModelAndView();
-		mv.setViewName("hello");
+		mv.setViewName("helloIndex");
 		mv.addObject("message", "这是用原生的bean搞得hello world");
 		return mv;
 	}

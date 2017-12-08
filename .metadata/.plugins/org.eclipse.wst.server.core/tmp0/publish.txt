@@ -1,4 +1,5 @@
 #Tomcat publish data
-#Fri Dec 01 15:39:06 CST 2017
+#Fri Dec 08 16:44:21 CST 2017
 org.eclipse.jst.j2ee.server\:springMavenPluto=D\:\\pluto-2.0.3\\webapps\\springMavenPluto
-org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\50448\\.m2\\repository\\org\\springframework\\spring-web\\3.2.0.RELEASE\\spring-web-3.2.0.RELEASE.jar=D\:\\pluto-2.0.3\\webapps\\springMavenPluto\\WEB-INF\\lib\\spring-web-3.2.0.RELEASE.jar
+org.eclipse.jst.jee.server\:springMVC=D\:\\apache-tomcat-7.0.82\\webapps\\springMVC
+org.eclipse.jst.jee.server\:/binary\:E\:\\jp_my_ws\\springMVC\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-3.2.4.RELEASE.jar=D\:\\apache-tomcat-7.0.82\\webapps\\springMVC\\WEB-INF\\lib\\spring-web-3.2.4.RELEASE.jar
