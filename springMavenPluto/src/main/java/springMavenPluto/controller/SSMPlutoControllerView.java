@@ -10,6 +10,8 @@ import java.util.List;
 import java.util.Map;
 
 import javax.annotation.Resource;
+import javax.portlet.ActionRequest;
+import javax.portlet.ActionResponse;
 import javax.portlet.PortletException;
 import javax.portlet.PortletSession;
 import javax.portlet.RenderRequest;
@@ -29,6 +31,7 @@ import org.springframework.web.multipart.commons.CommonsMultipartFile;
 import org.springframework.web.portlet.bind.annotation.ActionMapping;
 import org.springframework.web.portlet.bind.annotation.RenderMapping;
 import org.springframework.web.portlet.bind.annotation.ResourceMapping;
+import org.springframework.web.portlet.multipart.MultipartActionRequest;
 
 import com.alibaba.fastjson.JSON;
 
@@ -39,6 +42,7 @@ import springMavenPluto.service.mobileBookApi;
 @Controller("firstSSMPluto")
 @RequestMapping("VIEW")
 public class SSMPlutoControllerView {
+	private String UPLOAD_DIRECTORY="images";
 	@Value("${SSMPluto.viewPage}")
 	private String viewPage;
 
@@ -122,7 +126,9 @@ public class SSMPlutoControllerView {
 	}
 
 	@ActionMapping(params = "action=call")
-	public void defaultAction() {
+	public void defaultAction(ActionRequest request,
+            ActionResponse response) {
+		
 		System.out.println("action");
 	}
 
@@ -159,58 +165,31 @@ public class SSMPlutoControllerView {
 		Pw.write(JSON.toJSONString(result));
 	}
 
-	@SuppressWarnings("unchecked")
+
 	@ResourceMapping("mbHeadImgUpload")
-	@ResponseBody
 	public void mbHeadImgUpload(
-			@RequestParam("file") MultipartFile headImg,
+			//@RequestParam("file")MultipartFile file,
 			ResourceRequest req,
 			ResourceResponse resp) throws IOException {
-		Result result = new Result(0, "success", null);
-		//Part part=null;
-		/*try {
-			part=req.getPart("file");
-		} catch (PortletException e) {
-			result.setCode(500);
-			result.setMessage("head image upload fail");
-			PrintWriter Pw = resp.getWriter();
-			Pw.write(JSON.toJSONString(result));
-		}*/
 		
-		 /*String header = part.getHeader("Content-Disposition");
-	     String fileName = header.substring(header.indexOf("filename=\"") + 10,
-        header.lastIndexOf("\""));*/
-		String fileName=headImg.getName();
-		System.out.println("headImg:" + fileName);
-		
-		File imgFile = new File("classpath:images/" + fileName);
-		if (imgFile.exists()) {
-			try {
-				imgFile.createNewFile();
-			} catch (IOException e) {
-				result.setCode(500);
-				result.setMessage("head image upload fail");
-				PrintWriter Pw = resp.getWriter();
-				Pw.write(JSON.toJSONString(result));
-			}
-		}
-		try{
-			/*InputStream inputStream=part.getInputStream();
-			byte[]b=IOUtils.toByteArray(inputStream);*/
-			byte[] b=headImg.getBytes();
-			FileOutputStream fw = new FileOutputStream(imgFile);
-			fw.write(b);
-			fw.close();
-			
-		} catch (IOException e) {
-			result.setCode(500);
-			result.setMessage("head image upload fail");
-			PrintWriter Pw = resp.getWriter();
-			Pw.write(JSON.toJSONString(result));
+		System.out.println("upload:"+req.getContentType());
+		String filePath=req.getPortletContext().getRealPath("")+File.separator+UPLOAD_DIRECTORY;
+		File path=new File(filePath);
+		if (!path.exists()){
+			path.mkdir();
 		}
 		
-		String imgUrl="/springMavenPluto/images/"+fileName;
-		System.out.println(imgUrl);
-		result.setMap((Map<String, Object>) new HashMap<String, Object>().put("imageURL",imgUrl));
+		byte[] b=IOUtils.toByteArray(req.getPortletInputStream());
+		
+		File reqTxt=new File(filePath+File.separator+"req.txt");
+		FileOutputStream fout=new FileOutputStream(reqTxt);
+		fout.write(b);
+		fout.close();
+		
+		Result result=new Result(0,"success",null);
+		
+		PrintWriter Pw = resp.getWriter();
+		Pw.write(JSON.toJSONString(result));
+		
 	}
 }

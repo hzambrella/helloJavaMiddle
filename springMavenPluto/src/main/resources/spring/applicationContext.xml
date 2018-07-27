@@ -1,64 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<beans xmlns="http://www.springframework.org/schema/beans"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
-	xmlns:context="http://www.springframework.org/schema/context"
-	xmlns:mvc="http://www.springframework.org/schema/mvc"
-	xsi:schemaLocation="http://www.springframework.org/schema/beans   
-        http://www.springframework.org/schema/beans/spring-beans-3.2.xsd   
-        http://www.springframework.org/schema/context   
-        http://www.springframework.org/schema/context/spring-context-3.2.xsd   
-        http://www.springframework.org/schema/mvc    
-        http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd">
+<beans:beans xmlns="http://www.springframework.org/schema/mvc"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:beans="http://www.springframework.org/schema/beans"
+	xmlns:context="http://www.springframework.org/schema/context" xmlns:tx="http://www.springframework.org/schema/tx"
+	 xmlns:task="http://www.springframework.org/schema/task"
+	xmlns:mongo="http://www.springframework.org/schema/data/mongo"
+	xsi:schemaLocation="http://www.springframework.org/schema/mvc 
+		http://www.springframework.org/schema/mvc/spring-mvc.xsd
+		http://www.springframework.org/schema/beans 
+		http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context 
+		http://www.springframework.org/schema/context/spring-context.xsd
+		http://www.springframework.org/schema/tx 
+		http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+		http://www.springframework.org/schema/aop 
+		http://www.springframework.org/schema/aop/spring-aop-3.0.xsd">
 	<!-- 注解的方式千万别漏了，扫描的包 -->
-	<context:component-scan base-package="springMavenPluto" />
+	<!-- 自动扫描controller包下的所有类，使其认为spring mvc的控制器 -->
+	<context:component-scan base-package="springMavenPluto"
+		use-default-filters="false">
+		<context:include-filter type="annotation"
+			expression="org.springframework.stereotype.Controller" />
+		<context:include-filter type="annotation"
+			expression="org.springframework.stereotype.Component" />
+	</context:component-scan>
+	
+	<annotation-driven />
 
-	<!-- 静态文件，webapp为根目录 -->
-	<mvc:resources mapping="/css/**" location="/css/" />
-	<mvc:resources mapping="/images/**" location="/images/" />
-	<mvc:resources mapping="/js/**" location="/js/" />
+	<context:annotation-config />
 
-	<!-- jsp view Resolver -->
-	<bean id="jspViewResolver"
+
+	<!-- Handles HTTP GET requests for /resources/** by efficiently serving up static resources in the ${webappRoot}/resources directory -->
+	<resources mapping="/css/**" location="/css/" />
+	<!-- 2.0版本 -->
+	<resources mapping="/images/**" location="/images/" cache-period="31556927"/>
+	<resources mapping="/js/**" location="/js/" />
+	
+		<!-- 处理jsp的渲染器 -->
+	<beans:bean id="internalResourceViewResolver"
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
-		<property name="viewClass"
-			value="org.springframework.web.servlet.view.JstlView" />
-		<property name="prefix" value="/WEB-INF/jsp/" />
-		<property name="suffix" value=".jsp" />
-		<property name="contentType" value="text/html;charset=UTF-8" />
-		<property name="order" value="1" />
-	</bean>
+		<beans:property name="prefix" value="/view/" />
+		<beans:property name="suffix" value=".jsp" />
+	</beans:bean>
 
-	<bean id="multipartResolver"
+	<!-- 文件上传 -->
+	<beans:bean id="multipartResolver"
 		class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
-		 <property name="defaultEncoding" value="UTF-8"/> 
-		<property name="maxUploadSize">
-			<value>55242880
-			</value>
-		</property>
-	</bean>
+		<beans:property name="defaultEncoding" value="UTF-8" />
+		<beans:property name="maxUploadSize">
+			<beans:value>55242880
+			</beans:value>
+		</beans:property>
+	</beans:bean>
 
-	<bean id="portletMultipartResolver"
+	<beans:bean id="portletMultipartResolver"
 		class="org.springframework.web.portlet.multipart.CommonsPortletMultipartResolver">
-		 <property name="defaultEncoding" value="UTF-8"/> 
-		<property name="maxUploadSize" value="55242880" />
-	</bean>
+		 <beans:property name="defaultEncoding" value="UTF-8"/> 
+		<beans:property name="maxUploadSize" value="55242880" />
+	</beans:bean>
 
 	<!-- freemarker视图解析器 -->
-	<bean id="freeMakerViewResolver"
+	<beans:bean id="freeMakerViewResolver"
 		class="org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver">
-		<property name="suffix" value=".ftl" />
-		<property name="contentType" value="text/html;charset=UTF-8" />
+		<beans:property name="suffix" value=".ftl" />
+		<beans:property name="contentType" value="text/html;charset=UTF-8" />
 		<!-- 此变量值为pageContext.request, 页面使用方法：rc.contextPath -->
-		<property name="requestContextAttribute" value="rc" />
-		<property name="order" value="0" />
-	</bean>
+		<beans:property name="requestContextAttribute" value="rc" />
+		<beans:property name="order" value="0" />
+	</beans:bean>
 
 	<!-- 配置freeMarker的模板路径 -->
-	<bean
+	<beans:bean
 		class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">
-		<property name="templateLoaderPath" value="WEB-INF/ftl/" />
-		<property name="defaultEncoding" value="UTF-8" />
-	</bean>
+		<beans:property name="templateLoaderPath" value="WEB-INF/ftl/" />
+		<beans:property name="defaultEncoding" value="UTF-8" />
+	</beans:bean>
 
 	<!-- Default ExceptionHandler -->
 	<!-- <bean id="defaultExceptionHandler" class="org.springframework.web.portlet.handler.SimpleMappingExceptionResolver"> 
@@ -67,53 +82,53 @@
 		<prop key="java.lang.Exception">error</prop> </props> </property> </bean> -->
 
 	<!-- 读取properties文件 -->
-	<bean
+	<beans:bean
 		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
 
-		<property name="locations">
-			<list>
-				<value>classpath:mysql.properties</value>
-				<value>classpath:pageInfo.properties</value>
-			</list>
-		</property>
-	</bean>
+		<beans:property name="locations">
+			<beans:list>
+				<beans:value>classpath:mysql.properties</beans:value>
+				<beans:value>classpath:pageInfo.properties</beans:value>
+			</beans:list>
+		</beans:property>
+	</beans:bean>
 
 	<!-- database -->
-	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
+	<beans:bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
 		destroy-method="close">
-		<property name="driverClassName" value="${mysql.driver}" />
-		<property name="url" value="${mysql.url}" />
-		<property name="username" value="${mysql.username}" />
-		<property name="password" value="${mysql.password}" />
+		<beans:property name="driverClassName" value="${mysql.driver}" />
+		<beans:property name="url" value="${mysql.url}" />
+		<beans:property name="username" value="${mysql.username}" />
+		<beans:property name="password" value="${mysql.password}" />
 		<!-- 初始化连接大小 -->
-		<property name="initialSize" value="${mysql.initialSize}"></property>
+		<beans:property name="initialSize" value="${mysql.initialSize}"></beans:property>
 		<!-- 连接池最大数量 -->
-		<property name="maxActive" value="${mysql.maxActive}"></property>
+		<beans:property name="maxActive" value="${mysql.maxActive}"></beans:property>
 		<!-- 连接池最大空闲 -->
-		<property name="maxIdle" value="${mysql.maxIdle}"></property>
+		<beans:property name="maxIdle" value="${mysql.maxIdle}"></beans:property>
 		<!-- 连接池最小空闲 -->
-		<property name="minIdle" value="${mysql.minIdle}"></property>
+		<beans:property name="minIdle" value="${mysql.minIdle}"></beans:property>
 		<!-- 获取连接最大等待时间 -->
-		<property name="maxWait" value="${mysql.maxWait}"></property>
-	</bean>
+		<beans:property name="maxWait" value="${mysql.maxWait}"></beans:property>
+	</beans:bean>
 
 	<!-- mybatis的sessionFactory -->
-	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
-		<property name="dataSource" ref="dataSource" />
+	<beans:bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+		<beans:property name="dataSource" ref="dataSource" />
 		<!--configLocation属性指定mybatis的核心配置文件，文件里面配置别名和mapperXML -->
-		<property name="configLocation" value="classpath:mybatis_firstSSM.xml" />
-	</bean>
+		<beans:property name="configLocation" value="classpath:mybatis_firstSSM.xml" />
+	</beans:bean>
 
 	<!-- mapper dao -->
-	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+	<beans:bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
 		<!-- dao mapper所要扫描的包 -->
-		<property name="basePackage" value="springMavenPluto.Dao"></property>
-		<property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"></property>
-	</bean>
+		<beans:property name="basePackage" value="springMavenPluto.Dao"></beans:property>
+		<beans:property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"></beans:property>
+	</beans:bean>
 
 	<!-- 事务 -->
-	<bean id="transactionManager"
+	<beans:bean id="transactionManager"
 		class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
-		<property name="dataSource" ref="dataSource" />
-	</bean>
-</beans>
+		<beans:property name="dataSource" ref="dataSource" />
+	</beans:bean>
+</beans:beans>

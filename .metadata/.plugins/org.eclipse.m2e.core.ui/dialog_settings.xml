@@ -24,6 +24,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\jp_my_ws\springMavenPluto\pom.xml"/>
+			<item value="E:\jp_my_ws\Servers"/>
+			<item value="E:\jp_my_ws\hello"/>
 			<item value="E:\jp_my_ws\springMVC"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -36,16 +39,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="groupId">
-			<item value="portlet"/>
-			<item value="hz"/>
+			<item value="hzmaven"/>
 		</list>
 		<list key="package">
-			<item value="portlet.springMavenPluto"/>
 			<item value="foo"/>
 		</list>
 		<list key="artifactId">
-			<item value="springMavenPluto"/>
-			<item value="spring"/>
+			<item value="springMVC2"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

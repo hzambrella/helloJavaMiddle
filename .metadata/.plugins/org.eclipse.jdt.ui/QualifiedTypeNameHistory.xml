@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
-<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-<fullyQualifiedTypeName name="java.sql.Savepoint"/>
-<fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
-<fullyQualifiedTypeName name="java.io.FileInputStream"/>
-<fullyQualifiedTypeName name="java.io.DataOutputStream"/>
-<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactory"/>
-<fullyQualifiedTypeName name="org.apache.ibatis.io.Resources"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactoryBuilder"/>
 <fullyQualifiedTypeName name="java.io.Reader"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
@@ -27,7 +19,6 @@
 <fullyQualifiedTypeName name="org.springframework.web.portlet.bind.annotation.ResourceMapping"/>
 <fullyQualifiedTypeName name="javax.portlet.ResourceResponse"/>
 <fullyQualifiedTypeName name="javax.portlet.ResourceRequest"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
 <fullyQualifiedTypeName name="springMavenPluto.model.MobileBookModel"/>
 <fullyQualifiedTypeName name="springMavenPluto.mapper.mobileBookMapper"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
@@ -42,22 +33,31 @@
 <fullyQualifiedTypeName name="javax.annotation.Resource"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="javax.portlet.ActionRequest"/>
-<fullyQualifiedTypeName name="javax.portlet.ActionResponse"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
 <fullyQualifiedTypeName name="javax.portlet.ProcessAction"/>
-<fullyQualifiedTypeName name="springMavenPluto.View.Result"/>
 <fullyQualifiedTypeName name="javax.portlet.RenderRequest"/>
 <fullyQualifiedTypeName name="org.springframework.web.portlet.bind.annotation.ActionMapping"/>
-<fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
-<fullyQualifiedTypeName name="org.springframework.web.multipart.MultipartFile"/>
 <fullyQualifiedTypeName name="org.springframework.web.portlet.multipart.CommonsPortletMultipartResolver"/>
 <fullyQualifiedTypeName name="org.springframework.web.multipart.commons.CommonsMultipartResolver"/>
 <fullyQualifiedTypeName name="javax.servlet.http.Part"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="org.springframework.web.multipart.commons.CommonsMultipartFile"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+<fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="sun.misc.IOUtils"/>
 <fullyQualifiedTypeName name="org.apache.commons.io.IOUtils"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="org.springframework.web.multipart.MultipartFile"/>
+<fullyQualifiedTypeName name="springMavenPluto.View.Result"/>
+<fullyQualifiedTypeName name="javax.portlet.ActionRequest"/>
+<fullyQualifiedTypeName name="javax.portlet.ActionResponse"/>
+<fullyQualifiedTypeName name="org.springframework.web.portlet.multipart.MultipartActionRequest"/>
 </qualifiedTypeNameHistroy>

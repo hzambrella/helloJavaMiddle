@@ -16,12 +16,21 @@ import springMavenPluto.service.mobileBookApi;
 
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
+import com.alibaba.fastjson.JSON;
+
 @SuppressWarnings("rawtypes")
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations={"classpath:spring/applicationContext.xml"})
 public class TestMobileBook {
 	@Resource(name="mobileBookApi")
 	private mobileBookApi mba;
+	
+	@Test
+	public void testResultJson(){
+		Result result=new Result(0,"success1111",null);
+		
+		System.out.println(JSON.toJSONString(result));
+	}
 
 	@Test
 	public void testGet() {

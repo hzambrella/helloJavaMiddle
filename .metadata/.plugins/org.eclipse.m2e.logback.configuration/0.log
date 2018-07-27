@@ -27511,3 +27511,1448 @@ Caused by: java.io.IOException: CreateProcess error=2, 系统找不到指定的文件。
 2017-12-08 15:13:14,117 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
 2017-12-08 15:13:14,138 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-12-08 15:13:14,138 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:03:22,771 [Worker-328] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 17:03:22,772 [Worker-328] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 17:03:24,651 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:03:24,652 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 17:03:24,667 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:03:24,667 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:03:46,727 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:03:46,727 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 17:03:46,728 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:03:46,728 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:03:49,310 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:03:49,310 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 17:03:49,311 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:03:49,311 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:03:52,169 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:03:52,170 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 17:03:52,171 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:03:52,172 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:04:12,888 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:04:12,888 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 17:04:12,889 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:04:12,890 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:04:24,297 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:04:24,298 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 17:04:24,298 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:04:24,299 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:04:34,244 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:04:34,244 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 17:04:34,246 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:04:34,247 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:04:40,906 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:04:40,906 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 17:04:40,907 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:04:40,907 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:05:06,469 [Worker-324] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:05:06,469 [Worker-324] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 17:05:06,470 [Worker-324] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:05:06,470 [Worker-324] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:05:41,781 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:05:41,782 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 17:05:41,783 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:05:41,784 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:09:22,342 [Worker-334] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for springMavenPluto
+2017-12-08 17:09:22,886 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:09:22,887 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 17:09:22,901 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:09:22,901 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:09:27,596 [Worker-333] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:09:27,597 [Worker-333] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 17:09:27,599 [Worker-333] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:09:27,599 [Worker-333] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:09:33,556 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:09:33,557 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 17:09:33,559 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:09:33,559 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:09:40,273 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:09:40,273 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 17:09:40,275 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:09:40,275 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:11:27,042 [Worker-339] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:11:27,043 [Worker-339] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 17:11:27,045 [Worker-339] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:11:27,045 [Worker-339] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 17:11:32,147 [Worker-340] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:11:32,149 [Worker-340] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 17:11:32,151 [Worker-340] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 17:11:32,151 [Worker-340] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:08:39,676 [main] ERROR org.eclipse.jgit.util.FS - Caught exception in FS.readPipe()
+java.io.IOException: Cannot run program "bash" (in directory "C:\Users\50448"): CreateProcess error=2, 系统找不到指定的文件。
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1047) ~[na:1.7.0_80]
+	at java.lang.Runtime.exec(Runtime.java:617) ~[na:1.7.0_80]
+	at org.eclipse.jgit.util.FS.readPipe(FS.java:431) [org.eclipse.jgit_3.7.1.201504261725-r.jar:3.7.1.201504261725-r]
+	at org.eclipse.jgit.util.FS_Win32.discoverGitPrefix(FS_Win32.java:113) [org.eclipse.jgit_3.7.1.201504261725-r.jar:3.7.1.201504261725-r]
+	at org.eclipse.jgit.util.FS.gitPrefix(FS.java:517) [org.eclipse.jgit_3.7.1.201504261725-r.jar:3.7.1.201504261725-r]
+	at org.eclipse.jgit.util.SystemReader$Default.openSystemConfig(SystemReader.java:92) [org.eclipse.jgit_3.7.1.201504261725-r.jar:3.7.1.201504261725-r]
+	at org.eclipse.jgit.internal.storage.file.FileRepository.<init>(FileRepository.java:171) [org.eclipse.jgit_3.7.1.201504261725-r.jar:3.7.1.201504261725-r]
+	at org.eclipse.jgit.storage.file.FileRepositoryBuilder.build(FileRepositoryBuilder.java:92) [org.eclipse.jgit_3.7.1.201504261725-r.jar:3.7.1.201504261725-r]
+	at org.eclipse.jgit.storage.file.FileRepositoryBuilder.create(FileRepositoryBuilder.java:110) [org.eclipse.jgit_3.7.1.201504261725-r.jar:3.7.1.201504261725-r]
+	at org.eclipse.egit.core.RepositoryCache.lookupRepository(RepositoryCache.java:55) [org.eclipse.egit.core_3.7.1.201504261725-r.jar:na]
+	at org.eclipse.egit.core.project.GitProjectData.map(GitProjectData.java:503) [org.eclipse.egit.core_3.7.1.201504261725-r.jar:na]
+	at org.eclipse.egit.core.project.GitProjectData.remapAll(GitProjectData.java:471) [org.eclipse.egit.core_3.7.1.201504261725-r.jar:na]
+	at org.eclipse.egit.core.project.GitProjectData.load(GitProjectData.java:464) [org.eclipse.egit.core_3.7.1.201504261725-r.jar:na]
+	at org.eclipse.egit.core.project.GitProjectData.get(GitProjectData.java:204) [org.eclipse.egit.core_3.7.1.201504261725-r.jar:na]
+	at org.eclipse.egit.core.GitProvider.getData(GitProvider.java:86) [org.eclipse.egit.core_3.7.1.201504261725-r.jar:na]
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:318) [org.eclipse.egit.core_3.7.1.201504261725-r.jar:na]
+	at org.eclipse.egit.ui.Activator$ResourceRefreshJob.triggerRefresh(Activator.java:434) [org.eclipse.egit.ui_3.7.1.201504261725-r.jar:na]
+	at org.eclipse.egit.ui.Activator$1.windowActivated(Activator.java:287) [org.eclipse.egit.ui_3.7.1.201504261725-r.jar:na]
+	at org.eclipse.ui.internal.Workbench$11.run(Workbench.java:995) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.ui.internal.Workbench.fireWindowActivated(Workbench.java:993) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow$14.shellActivated(WorkbenchWindow.java:1955) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:88) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1081) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Decorations.WM_ACTIVATE(Decorations.java:1667) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Shell.WM_ACTIVATE(Shell.java:2151) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4608) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4977) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.internal.win32.OS.BringWindowToTop(Native Method) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Decorations.bringToTop(Decorations.java:231) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Shell.open(Shell.java:1217) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.postProcess(WBWRenderer.java:674) [org.eclipse.e4.ui.workbench.renderers.swt_0.11.2.v20140205-1834.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:649) [org.eclipse.e4.ui.workbench.swt_0.12.2.v20140117-1939.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:735) [org.eclipse.e4.ui.workbench.swt_0.12.2.v20140117-1939.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:706) [org.eclipse.e4.ui.workbench.swt_0.12.2.v20140117-1939.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:700) [org.eclipse.e4.ui.workbench.swt_0.12.2.v20140117-1939.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:685) [org.eclipse.e4.ui.workbench.swt_0.12.2.v20140117-1939.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1042) [org.eclipse.e4.ui.workbench.swt_0.12.2.v20140117-1939.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20130515-1857.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997) [org.eclipse.e4.ui.workbench.swt_0.12.2.v20140117-1939.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140) [org.eclipse.e4.ui.workbench_1.0.2.v20131202-1739.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20130515-1857.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124) [org.eclipse.ui.ide.application_1.0.401.v20131105-1007.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.100.v20130327-1442.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110) [org.eclipse.osgi_3.9.1.v20140110-1610.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79) [org.eclipse.osgi_3.9.1.v20140110-1610.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354) [org.eclipse.osgi_3.9.1.v20140110-1610.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181) [org.eclipse.osgi_3.9.1.v20140110-1610.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_80]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_80]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_80]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_80]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636) [org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591) [org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450) [org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar:na]
+Caused by: java.io.IOException: CreateProcess error=2, 系统找不到指定的文件。
+	at java.lang.ProcessImpl.create(Native Method) ~[na:1.7.0_80]
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:385) ~[na:1.7.0_80]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:136) ~[na:1.7.0_80]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1028) ~[na:1.7.0_80]
+	... 64 common frames omitted
+2017-12-08 19:08:44,933 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:08:44,937 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:08:44,943 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:08:44,943 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:09:10,437 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:09:10,447 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:09:10,451 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:09:10,451 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:09:22,294 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:09:22,295 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:09:22,298 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:09:22,298 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:09:24,416 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:09:24,418 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:09:24,420 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:09:24,420 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:09:40,383 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:09:40,384 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:09:40,386 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:09:40,386 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:09:52,131 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:09:52,132 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 19:09:53,872 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:09:53,873 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:09:53,896 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:09:53,897 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:09:58,971 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:09:58,972 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 19:10:06,688 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:10:06,689 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:10:06,692 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:10:06,692 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:18:06,259 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:06,260 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:18:06,262 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:06,263 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:18:10,177 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:10,178 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:18:10,180 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:10,180 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:18:15,032 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:15,033 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:18:15,035 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:15,035 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:18:19,972 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:19,973 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:18:19,976 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:19,977 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:18:21,897 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:18:21,897 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 19:18:24,031 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:24,032 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:18:24,048 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:24,048 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:18:27,727 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:18:27,727 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 19:18:35,545 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:35,546 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:18:35,548 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:35,548 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:18:53,044 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:53,044 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:18:53,045 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:18:53,045 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:18:55,360 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:18:55,360 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 19:19:02,159 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:19:02,159 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:19:02,161 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:19:02,161 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:21:14,565 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:21:14,566 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:21:14,569 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:21:14,569 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:21:19,845 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:21:19,845 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 19:21:21,674 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:21:21,675 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:21:21,692 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:21:21,692 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:21:24,081 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:21:24,082 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 19:21:32,469 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:21:32,470 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:21:32,473 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:21:32,473 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:24:16,375 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:24:16,376 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:24:16,378 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:24:16,378 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:24:18,745 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:24:18,746 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 19:24:20,580 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:24:20,581 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:24:20,600 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:24:20,600 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:24:23,152 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:24:23,152 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 19:24:31,449 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:24:31,450 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:24:31,453 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:24:31,453 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:24:32,593 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:24:32,593 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:24:32,594 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:24:32,594 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:29:00,616 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:00,617 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:29:00,620 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:00,620 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:29:11,921 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:11,922 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:29:11,924 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:11,924 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:29:14,067 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:14,068 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:29:14,069 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:14,069 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:29:30,598 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:29:30,598 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 19:29:32,425 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:32,426 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:29:32,442 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:32,443 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:29:36,177 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:29:36,177 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 19:29:39,258 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:29:39,259 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 19:29:45,181 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:45,182 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:29:45,184 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:45,184 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:29:46,280 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:46,280 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:29:46,281 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:46,282 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:29:47,376 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:47,376 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:29:47,377 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:29:47,377 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:32:17,401 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:32:17,401 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:32:17,402 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:32:17,402 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:32:47,050 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:32:47,050 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:32:47,051 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:32:47,051 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:32:49,951 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:32:49,951 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:32:49,952 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:32:49,952 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:33:22,160 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:33:22,160 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:33:22,162 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:33:22,162 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:33:28,501 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:33:28,502 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:33:28,503 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:33:28,503 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:34:27,032 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:27,033 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:34:27,035 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:27,035 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:34:28,165 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:28,165 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:34:28,168 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:28,168 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:34:34,016 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:34,017 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:34:34,019 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:34,020 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:34:36,288 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:34:36,289 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 19:34:38,051 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:38,052 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:34:38,068 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:38,069 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:34:44,478 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:44,480 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:34:44,484 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:44,484 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:34:52,693 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for springMavenPluto
+2017-12-08 19:34:53,404 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:53,405 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:34:53,422 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:34:53,423 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:35:02,011 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:35:02,012 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:35:02,014 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:35:02,014 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:35:03,093 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:35:03,094 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:35:03,095 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:35:03,096 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:35:05,474 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:35:05,475 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 19:35:07,173 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:35:07,174 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:35:07,189 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:35:07,189 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:35:10,605 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:35:10,606 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 19:35:18,657 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:35:18,658 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:35:18,659 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:35:18,660 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:36:24,275 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:36:24,277 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:36:24,280 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:36:24,281 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:39:17,236 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:39:17,237 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:39:17,239 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:39:17,239 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:39:27,768 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:39:27,768 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:39:27,771 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:39:27,771 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:39:30,047 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:39:30,047 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:39:30,049 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:39:30,049 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:39:58,717 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:39:58,719 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:39:58,721 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:39:58,721 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:40:01,640 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:01,641 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:40:01,643 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:01,643 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:40:11,821 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:11,822 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:40:11,824 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:11,824 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:40:15,361 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:15,363 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:40:15,365 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:15,365 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:40:21,324 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:21,324 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:40:21,326 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:21,327 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:40:25,796 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:25,797 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:40:25,799 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:25,799 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:40:29,326 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:29,327 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:40:29,329 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:29,329 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:40:59,544 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:59,544 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:40:59,545 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:40:59,545 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:41:02,694 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:41:02,694 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:41:02,695 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:41:02,695 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:41:09,468 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:41:09,469 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:41:09,470 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:41:09,470 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:41:22,886 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:41:22,886 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:41:22,887 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:41:22,887 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:42:12,678 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:42:12,679 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:42:12,681 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:42:12,681 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:42:15,492 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:42:15,492 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:42:15,495 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:42:15,495 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:42:25,761 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:42:25,762 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:42:25,764 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:42:25,764 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:42:28,718 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:42:28,719 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:42:28,721 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:42:28,721 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:42:48,075 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:42:48,075 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 19:42:49,837 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:42:49,838 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:42:49,866 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:42:49,866 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:43:00,685 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:43:00,686 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 19:43:08,840 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:43:08,841 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:43:08,843 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:43:08,844 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:45:58,523 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:45:58,523 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:45:58,524 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:45:58,524 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:47:02,219 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:02,220 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:47:02,222 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:02,222 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:47:10,530 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:10,531 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:47:10,533 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:10,533 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:47:18,115 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:18,116 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:47:18,119 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:18,119 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:47:28,127 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:28,128 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:47:28,130 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:28,130 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:47:36,971 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:36,971 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:47:36,972 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:36,972 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:47:41,207 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:47:41,208 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 19:47:43,166 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:43,167 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:47:43,187 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:43,187 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:47:45,252 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:47:45,253 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 19:47:54,082 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:54,082 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:47:54,084 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:47:54,084 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:49:50,518 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:49:50,518 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:49:50,520 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:49:50,520 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:50:05,986 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:05,986 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:50:05,988 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:05,988 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:50:13,735 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:13,735 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:50:13,737 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:13,738 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:50:41,456 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:41,457 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:50:41,459 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:41,459 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:50:46,234 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:46,235 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:50:46,237 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:46,237 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:50:48,899 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:48,900 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:50:48,901 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:48,902 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:50:51,917 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:51,918 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:50:51,921 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:50:51,921 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:51:00,510 [Worker-75] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:51:00,510 [Worker-75] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 19:51:02,381 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:51:02,381 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:51:02,398 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:51:02,398 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:53:04,740 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2017-12-08 19:53:04,851 [Worker-52] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2017-12-08 19:53:05,584 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.pom
+2017-12-08 19:53:06,603 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.pom
+2017-12-08 19:53:06,940 [Worker-52] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2017-12-08 19:53:07,522 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/25/commons-parent-25.pom
+2017-12-08 19:53:08,755 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/25/commons-parent-25.pom
+2017-12-08 19:53:09,092 [Worker-52] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2017-12-08 19:53:09,669 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2017-12-08 19:53:10,795 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2017-12-08 19:53:11,040 [Worker-52] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2017-12-08 19:53:11,616 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2017-12-08 19:53:12,963 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2017-12-08 19:53:13,564 [Worker-52] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2017-12-08 19:53:14,061 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.jar
+2017-12-08 19:53:14,075 [New I/O client worker #5-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2017-12-08 19:53:15,247 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.jar
+2017-12-08 19:53:15,526 [New I/O client worker #5-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2017-12-08 19:53:17,322 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:53:17,322 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:53:17,323 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:53:17,323 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:53:17,323 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2017-12-08 19:53:17,324 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2017-12-08 19:53:17,329 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:53:18,002 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2017-12-08 19:53:18,543 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:53:18,544 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 19:53:18,561 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:53:18,561 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 19:53:18,561 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2017-12-08 19:53:18,561 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2017-12-08 19:53:18,564 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:54:09,996 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 19:54:09,997 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 19:54:17,263 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:54:17,263 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 19:54:17,265 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 19:54:17,265 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:09:12,010 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:09:12,011 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:09:12,013 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:09:12,013 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:09:40,580 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:09:40,581 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:09:40,583 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:09:40,583 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:09:45,039 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:09:45,040 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:09:45,041 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:09:45,042 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:09:48,219 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:09:48,220 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:09:48,221 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:09:48,221 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:09:56,414 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:09:56,415 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:09:56,417 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:09:56,417 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:10:18,620 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:10:18,621 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:10:18,623 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:10:18,623 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:10:23,290 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:10:23,291 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:10:23,294 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:10:23,294 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:10:34,752 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:10:34,753 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:10:34,756 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:10:34,756 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:11:07,683 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:11:07,684 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:11:07,687 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:11:07,687 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:11:18,052 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:11:18,053 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:11:18,055 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:11:18,056 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:11:36,524 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:11:36,524 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:11:36,526 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:11:36,527 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:11:48,504 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:11:48,504 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:11:48,507 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:11:48,507 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:13:36,466 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:13:36,466 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:13:36,468 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:13:36,469 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:13:45,791 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:13:45,792 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:13:45,795 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:13:45,795 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:13:50,704 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:13:50,705 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:13:50,707 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:13:50,707 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:14:05,323 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:14:05,324 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:14:05,326 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:14:05,326 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:14:06,403 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:14:06,404 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:14:06,406 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:14:06,406 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:14:14,652 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:14:14,653 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:14:14,654 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:14:14,654 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:15:13,296 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:15:13,297 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:15:13,298 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:15:13,298 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:15:19,037 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:15:19,038 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:15:19,041 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:15:19,041 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:15:21,344 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:15:21,345 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:15:21,348 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:15:21,348 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:15:30,567 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:15:30,568 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:15:30,570 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:15:30,570 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:15:33,883 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:15:33,884 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:15:33,886 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:15:33,886 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:16:24,333 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:16:24,334 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:16:24,337 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:16:24,337 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:16:30,860 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:16:30,861 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:16:30,862 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:16:30,863 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:16:32,060 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:16:32,060 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:16:32,062 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:16:32,062 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:16:48,006 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:16:48,007 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:16:48,008 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:16:48,009 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:17:04,262 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:04,262 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:17:04,264 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:04,265 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:17:06,389 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:06,390 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:17:06,392 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:06,393 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:17:11,327 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:11,328 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:17:11,330 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:11,330 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:17:16,631 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:16,631 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:17:16,633 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:16,633 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:17:26,562 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:26,563 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:17:26,564 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:26,564 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:17:38,729 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:38,730 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:17:38,733 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:38,733 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:17:46,814 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:46,814 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:17:46,816 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:46,816 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:17:50,390 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:50,391 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:17:50,393 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:50,393 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:17:51,494 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:51,495 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:17:51,499 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:17:51,499 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:18:13,827 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:18:13,827 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:18:13,829 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:18:13,829 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:18:26,571 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:18:26,572 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:18:26,575 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:18:26,575 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:18:27,706 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:18:27,706 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:18:27,708 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:18:27,708 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:18:38,535 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:18:38,536 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:18:38,538 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:18:38,538 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:18:57,218 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:18:57,219 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:18:57,221 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:18:57,221 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:19:06,845 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:19:06,845 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:19:06,848 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:19:06,848 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:19:15,794 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:19:15,795 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:19:15,797 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:19:15,797 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:19:57,124 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:19:57,125 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:19:57,127 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:19:57,127 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:20:12,771 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:12,772 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:20:12,774 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:12,774 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:20:20,717 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:20,718 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:20:20,719 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:20,719 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:20:24,688 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:24,689 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:20:24,691 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:24,691 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:20:32,889 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:32,889 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:20:32,891 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:32,891 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:20:48,368 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:48,370 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:20:48,372 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:48,372 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:20:50,977 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:50,978 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:20:50,980 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:50,980 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:20:54,947 [Worker-94] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 20:20:54,948 [Worker-94] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 20:20:56,709 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:56,710 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:20:56,727 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:20:56,727 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:20:59,061 [Worker-102] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 20:20:59,061 [Worker-102] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 20:21:07,153 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:21:07,154 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:21:07,156 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:21:07,156 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:30:59,605 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2017-12-08 20:31:00,405 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:31:00,405 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:31:00,420 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:31:00,421 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:31:21,848 [Worker-115] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 20:31:21,848 [Worker-115] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 20:31:24,050 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:31:24,050 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:31:24,067 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:31:24,067 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:31:26,002 [Worker-109] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 20:31:26,002 [Worker-109] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 20:31:33,903 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:31:33,903 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-12-08 20:31:33,906 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:31:33,906 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:42:15,502 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:42:15,503 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:42:15,509 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:42:15,509 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:42:24,232 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:42:24,232 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:42:24,236 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:42:24,237 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:42:37,754 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:42:37,754 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:42:37,758 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:42:37,758 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:42:56,898 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:42:56,898 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:42:56,903 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:42:56,903 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:43:09,510 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:43:09,510 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:43:09,514 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:43:09,514 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:43:13,814 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:43:13,814 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:43:13,817 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:43:13,818 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:43:30,066 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:43:30,067 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:43:30,072 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:43:30,072 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:43:47,064 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:43:47,065 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:43:47,069 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:43:47,069 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:44:10,073 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:10,073 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:44:10,077 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:10,077 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:44:23,287 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:23,287 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:44:23,291 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:23,291 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:44:28,858 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:28,858 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:44:28,862 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:28,862 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:44:32,905 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:32,906 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:44:32,909 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:32,910 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:44:44,439 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:44,439 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:44:44,443 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:44,443 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:44:55,859 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:55,859 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:44:55,862 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:44:55,862 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:45:06,325 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:45:06,325 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:45:06,329 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:45:06,329 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:45:17,894 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:45:17,894 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:45:17,898 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:45:17,899 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:45:29,034 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:45:29,034 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:45:29,039 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:45:29,039 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:45:34,655 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:45:34,656 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-08 20:45:34,660 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:45:34,660 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:45:45,164 [Worker-131] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 20:45:45,165 [Worker-131] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-12-08 20:45:46,999 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:45:46,999 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-12-08 20:45:47,019 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:45:47,019 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:50:11,572 [Worker-141] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 20:50:11,573 [Worker-141] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2017-12-08 20:50:18,274 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:50:18,275 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-12-08 20:50:18,278 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:50:18,278 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2017-12-08 20:50:21,629 [Worker-145] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2017-12-08 20:50:21,629 [Worker-145] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-12-08 20:50:28,981 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:50:28,982 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-08 20:50:28,983 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-08 20:50:28,983 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 18:19:22,461 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:19:22,501 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 18:19:22,574 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:19:22,580 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 18:19:50,288 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 18:19:50,532 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:19:51,612 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.pom
+2018-02-14 18:19:51,615 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.pom
+2018-02-14 18:19:51,922 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:19:52,503 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.5/httpcomponents-client-4.5.5.pom
+2018-02-14 18:19:52,787 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.5/httpcomponents-client-4.5.5.pom
+2018-02-14 18:19:53,088 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:19:53,657 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/10/httpcomponents-parent-10.pom
+2018-02-14 18:19:54,232 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/10/httpcomponents-parent-10.pom
+2018-02-14 18:19:54,562 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:19:55,063 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.pom
+2018-02-14 18:19:55,065 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.pom
+2018-02-14 18:19:55,339 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:19:55,798 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.9/httpcomponents-core-4.4.9.pom
+2018-02-14 18:19:56,028 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.9/httpcomponents-core-4.4.9.pom
+2018-02-14 18:19:56,298 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:19:59,813 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/9/httpcomponents-parent-9.pom
+2018-02-14 18:20:00,343 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/9/httpcomponents-parent-9.pom
+2018-02-14 18:20:00,640 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:20:01,160 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2018-02-14 18:20:01,162 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2018-02-14 18:20:01,450 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:20:01,962 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2018-02-14 18:20:02,776 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2018-02-14 18:20:03,292 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:20:03,828 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom
+2018-02-14 18:20:04,094 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom
+2018-02-14 18:20:04,502 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:20:05,034 [New I/O client worker #10-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar
+2018-02-14 18:20:05,085 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar
+2018-02-14 18:20:06,692 [New I/O client worker #10-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar
+2018-02-14 18:20:07,193 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar
+2018-02-14 18:20:09,866 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:20:09,868 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 18:20:09,870 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:20:09,870 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 18:20:09,870 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 18:20:09,871 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 18:20:09,876 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:20:11,627 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 18:20:12,273 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:20:12,275 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 18:20:12,315 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:20:12,315 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 18:20:12,316 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 18:20:12,316 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 18:20:12,319 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:21:35,005 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 18:21:35,574 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:21:35,574 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 18:21:35,575 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:21:35,575 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 18:21:35,576 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 18:21:35,576 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 18:21:35,587 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:21:36,909 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:21:36,910 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 18:21:36,918 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:21:36,918 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 18:25:59,300 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:25:59,300 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 18:25:59,316 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:25:59,316 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 18:26:08,447 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 18:26:08,588 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:26:09,197 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.pom
+2018-02-14 18:26:09,212 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.pom
+2018-02-14 18:26:09,462 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:26:10,073 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2018-02-14 18:26:10,073 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2018-02-14 18:26:10,385 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:26:11,923 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.pom
+2018-02-14 18:26:11,924 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.pom
+2018-02-14 18:26:12,353 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 18:26:12,901 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar
+2018-02-14 18:26:12,933 [New I/O client worker #4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar
+2018-02-14 18:26:13,526 [New I/O client worker #4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar
+2018-02-14 18:26:14,789 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar
+2018-02-14 18:26:15,775 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: hzmaven:hello:0.0.1-SNAPSHOT @ E:\jp_my_ws\hello\pom.xml.
+2018-02-14 18:26:18,086 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:26:18,101 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 18:26:18,101 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:26:18,101 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 18:26:18,101 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 18:26:18,101 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 18:26:18,101 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:26:19,321 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:26:19,321 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\hello\src\main\resources
+2018-02-14 18:26:19,321 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:26:19,321 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\hello\src\test\resources
+2018-02-14 18:26:19,725 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:26:19,725 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 18:26:19,740 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:26:19,740 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 18:27:09,451 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2018-02-14 18:27:09,451 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2018-02-14 18:27:11,504 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:27:11,505 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 18:27:11,514 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:27:11,514 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 18:27:16,901 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\jp_my_ws\springMavenPluto
+2018-02-14 18:27:16,901 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2018-02-14 18:27:25,884 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:27:25,884 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 18:27:25,884 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 18:27:25,884 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:10:28,415 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:10:28,446 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 19:10:28,446 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:10:28,446 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:10:45,615 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:10:49,206 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:10:49,222 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:10:49,222 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:10:49,222 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:10:49,222 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:10:49,222 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:10:49,238 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:10:51,175 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:10:51,175 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 19:10:51,253 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:10:51,253 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:10:57,284 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:10:58,761 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:10:58,761 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:10:58,763 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:10:58,763 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:10:58,763 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:10:58,764 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:10:58,768 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:11:26,211 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:11:26,571 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:11:27,166 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.2.1/httpmime-4.2.1.pom
+2018-02-14 19:11:27,169 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.2.1/httpmime-4.2.1.pom
+2018-02-14 19:11:27,483 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:11:28,059 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.2.1/httpcomponents-client-4.2.1.pom
+2018-02-14 19:11:28,345 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.2.1/httpcomponents-client-4.2.1.pom
+2018-02-14 19:11:28,647 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:11:29,116 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/6/project-6.pom
+2018-02-14 19:11:29,388 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/6/project-6.pom
+2018-02-14 19:11:29,640 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:11:30,235 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.2.1/httpcore-4.2.1.pom
+2018-02-14 19:11:30,236 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.2.1/httpcore-4.2.1.pom
+2018-02-14 19:11:30,520 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:11:31,077 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.2.1/httpcomponents-core-4.2.1.pom
+2018-02-14 19:11:31,079 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.2.1/httpcomponents-core-4.2.1.pom
+2018-02-14 19:11:31,855 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:11:32,419 [New I/O client worker #6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.2.1/httpcore-4.2.1.jar
+2018-02-14 19:11:32,422 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.2.1/httpmime-4.2.1.jar
+2018-02-14 19:11:32,773 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.2.1/httpmime-4.2.1.jar
+2018-02-14 19:11:34,004 [New I/O client worker #6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.2.1/httpcore-4.2.1.jar
+2018-02-14 19:11:35,216 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:11:35,216 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:11:35,217 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:11:35,218 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:11:35,218 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:11:35,218 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:11:35,222 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:11:36,739 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:11:36,739 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 19:11:36,782 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:11:36,782 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:12:11,319 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:12:11,945 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:12:11,945 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:12:11,945 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:12:11,945 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:12:11,945 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:12:11,945 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:12:11,960 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:18:12,314 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:18:12,400 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:18:12,978 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5/httpmime-4.5.pom
+2018-02-14 19:18:12,979 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5/httpmime-4.5.pom
+2018-02-14 19:18:13,282 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:18:13,846 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5/httpcomponents-client-4.5.pom
+2018-02-14 19:18:14,116 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5/httpcomponents-client-4.5.pom
+2018-02-14 19:18:14,416 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:18:14,987 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/7/project-7.pom
+2018-02-14 19:18:15,339 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/7/project-7.pom
+2018-02-14 19:18:15,643 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:18:16,196 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5/httpclient-4.5.pom
+2018-02-14 19:18:16,196 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5/httpclient-4.5.pom
+2018-02-14 19:18:16,495 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:18:17,051 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.1/httpcore-4.4.1.pom
+2018-02-14 19:18:17,052 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.1/httpcore-4.4.1.pom
+2018-02-14 19:18:17,328 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:18:17,890 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.1/httpcomponents-core-4.4.1.pom
+2018-02-14 19:18:17,906 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.1/httpcomponents-core-4.4.1.pom
+2018-02-14 19:18:18,410 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:18:18,894 [New I/O client worker #13-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5/httpclient-4.5.jar
+2018-02-14 19:18:18,925 [New I/O client worker #13-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.1/httpcore-4.4.1.jar
+2018-02-14 19:18:18,941 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5/httpmime-4.5.jar
+2018-02-14 19:18:19,525 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5/httpmime-4.5.jar
+2018-02-14 19:18:20,852 [New I/O client worker #13-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.1/httpcore-4.4.1.jar
+2018-02-14 19:18:21,797 [New I/O client worker #13-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5/httpclient-4.5.jar
+2018-02-14 19:18:22,877 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:18:22,877 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:18:22,877 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:18:22,877 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:18:22,877 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:18:22,877 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:18:22,877 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:18:24,192 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:18:24,194 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 19:18:24,205 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:18:24,205 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:20:58,723 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:20:59,286 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:20:59,286 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:20:59,286 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:20:59,286 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:20:59,286 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:20:59,286 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:20:59,286 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:21:00,579 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:21:00,579 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 19:21:00,594 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:21:00,594 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:21:02,754 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:21:02,832 [Worker-17] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:21:03,391 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.5/httpcore-4.4.5.pom
+2018-02-14 19:21:03,391 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.5/httpcore-4.4.5.pom
+2018-02-14 19:21:03,672 [Worker-17] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:21:04,217 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.5/httpcomponents-core-4.4.5.pom
+2018-02-14 19:21:04,488 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.5/httpcomponents-core-4.4.5.pom
+2018-02-14 19:21:04,969 [Worker-17] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2018-02-14 19:21:05,536 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.5/httpcore-4.4.5.jar
+2018-02-14 19:21:08,292 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.5/httpcore-4.4.5.jar
+2018-02-14 19:21:09,048 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:21:09,048 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:21:09,048 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:21:09,048 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:21:09,048 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:21:09,048 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:21:09,048 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:21:10,460 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:21:10,461 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 19:21:10,477 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:21:10,477 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:21:14,314 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:21:14,860 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:21:14,860 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:21:14,862 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:21:14,862 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:21:14,862 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:21:14,863 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:21:14,867 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:26,566 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:39:27,482 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:27,482 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:39:27,484 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:27,484 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:39:27,484 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:39:27,485 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:39:27,489 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:28,934 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:28,936 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 19:39:28,957 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:28,957 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:39:32,193 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:39:32,887 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:32,887 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:39:32,888 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:32,889 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:39:32,889 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:39:32,889 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:39:32,892 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:35,174 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:39:35,901 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:35,902 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:39:35,904 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:35,904 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:39:35,905 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:39:35,905 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:39:35,912 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:37,322 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:37,322 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 19:39:37,335 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:37,335 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:39:46,163 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:39:46,859 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:46,860 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:39:46,865 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:46,866 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:39:46,866 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:39:46,866 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:39:46,877 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:50,501 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 19:39:51,288 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:51,289 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 19:39:51,290 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 19:39:51,290 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 19:39:51,291 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 19:39:51,291 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 19:39:51,297 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:29,633 [Worker-75] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:550) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:504) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:459) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:334) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:287) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.refresh(MavenProjectManager.java:67) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.getProjectFacade(MavenBuilder.java:216) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:91) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:1) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:89) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:733) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...y.com/artifact/org.apache.httpcomponents/httpmime -->\n\t<!-- \t<!-- ... @70:13) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:548) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	... 26 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...y.com/artifact/org.apache.httpcomponents/httpmime -->\n\t<!-- \t<!-- ... @70:13) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2360) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1189) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1105) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1090) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2410) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4088) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4021) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	... 28 common frames omitted
+2018-02-14 22:27:31,213 [Worker-77] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:550) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:504) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:459) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:334) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:287) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.refresh(MavenProjectManager.java:67) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.getProjectFacade(MavenBuilder.java:216) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:91) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:1) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:89) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:733) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...y.com/artifact/org.apache.httpcomponents/httpmime -->\n\t<!-- \t<!-- ... @70:13) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:548) [org.eclipse.m2e.core_1.4.1.20140328-1905.jar:na]
+	... 26 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...y.com/artifact/org.apache.httpcomponents/httpmime -->\n\t<!-- \t<!-- ... @70:13) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2360) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1189) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1105) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1090) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2410) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4088) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4021) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	... 28 common frames omitted
+2018-02-14 22:27:32,425 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 22:27:33,075 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:33,075 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 22:27:33,076 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:33,076 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:27:33,076 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 22:27:33,077 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 22:27:33,081 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:34,388 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:34,389 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 22:27:34,398 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:34,398 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:27:37,515 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 22:27:38,028 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:38,028 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 22:27:38,030 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:38,030 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:27:38,030 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 22:27:38,030 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 22:27:38,034 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:39,308 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:39,309 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 22:27:39,317 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:39,318 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:27:42,744 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 22:27:43,298 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:43,298 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 22:27:43,299 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:43,299 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:27:43,299 [Worker-77] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 22:27:43,300 [Worker-77] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 22:27:43,303 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:44,625 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:44,626 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 22:27:44,635 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:44,635 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:27:47,801 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 22:27:48,412 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:48,412 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 22:27:48,413 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:48,413 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:27:48,413 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 22:27:48,413 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 22:27:48,416 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:49,688 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:49,689 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 22:27:49,697 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:49,698 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:27:51,880 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 22:27:52,725 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:52,725 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 22:27:52,726 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:52,726 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:27:52,726 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 22:27:52,726 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 22:27:52,729 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:53,998 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:53,999 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 22:27:54,007 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:27:54,008 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:27:59,524 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 22:28:00,104 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:28:00,104 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 22:28:00,105 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:28:00,105 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:28:00,105 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 22:28:00,106 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 22:28:00,109 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:28:29,229 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: portlet:springMavenPluto:0.0.1-SNAPSHOT @ E:\jp_my_ws\springMavenPluto\pom.xml.
+2018-02-14 22:28:29,886 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:28:29,886 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 22:28:29,887 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:28:29,887 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-14 22:28:29,887 [Worker-77] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springMavenPluto
+2018-02-14 22:28:29,887 [Worker-77] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springMavenPluto
+2018-02-14 22:28:29,890 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:28:31,261 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:28:31,263 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-14 22:28:31,272 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 22:28:31,272 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-02-25 16:24:35,246 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-25 16:24:35,311 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-02-25 16:24:35,347 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-25 16:24:35,347 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-03-13 10:26:16,912 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 10:26:17,112 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-03-13 10:26:17,228 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-13 10:26:17,248 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-03-19 14:40:09,583 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:460) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1128) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:173) [org.eclipse.jface_3.9.1.v20130725-1141.jar:na]
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:388) [org.eclipse.jface_3.9.1.v20130725-1141.jar:na]
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:507) [org.eclipse.jface_3.9.1.v20130725-1141.jar:na]
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog.run(ProgressMonitorJobsDialog.java:275) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.disconnectFromWorkspace(IDEWorkbenchAdvisor.java:515) [org.eclipse.ui.ide.application_1.0.401.v20131105-1007.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.postShutdown(IDEWorkbenchAdvisor.java:348) [org.eclipse.ui.ide.application_1.0.401.v20131105-1007.jar:na]
+	at org.eclipse.ui.internal.Workbench.shutdown(Workbench.java:2890) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.Workbench.busyClose(Workbench.java:1112) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.Workbench.access$19(Workbench.java:1028) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.Workbench$19.run(Workbench.java:1331) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1329) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1302) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1246) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow.access$14(WorkbenchWindow.java:1217) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow$10.run(WorkbenchWindow.java:1280) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1278) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1290) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow$6.close(WorkbenchWindow.java:477) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer$11.shellClosed(WBWRenderer.java:517) [org.eclipse.e4.ui.workbench.renderers.swt_0.11.2.v20140205-1834.jar:na]
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:98) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1081) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Decorations.java:309) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Decorations.java:1697) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4613) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4977) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4706) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4977) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4706) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4977) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757) [org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113) [org.eclipse.e4.ui.workbench.swt_0.12.2.v20140117-1939.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20130515-1857.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997) [org.eclipse.e4.ui.workbench.swt_0.12.2.v20140117-1939.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140) [org.eclipse.e4.ui.workbench_1.0.2.v20131202-1739.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20130515-1857.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124) [org.eclipse.ui.ide.application_1.0.401.v20131105-1007.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.100.v20130327-1442.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110) [org.eclipse.osgi_3.9.1.v20140110-1610.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79) [org.eclipse.osgi_3.9.1.v20140110-1610.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354) [org.eclipse.osgi_3.9.1.v20140110-1610.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181) [org.eclipse.osgi_3.9.1.v20140110-1610.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_80]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_80]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_80]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_80]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636) [org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591) [org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450) [org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar:na]
+2018-03-19 14:40:14,303 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 14:40:14,326 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-03-19 14:40:14,458 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 14:40:14,470 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-03-20 09:58:55,726 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 09:58:55,828 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-03-20 09:58:55,908 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 09:58:55,908 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-05-10 17:21:55,646 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-10 17:21:55,723 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-05-10 17:21:55,882 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-10 17:21:55,888 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-05-11 15:36:51,280 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-11 15:36:51,386 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-05-11 15:36:51,491 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-11 15:36:51,492 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-05-12 21:59:47,611 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-12 21:59:47,659 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-05-12 21:59:47,752 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-12 21:59:47,752 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
+2018-06-13 12:48:09,644 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 12:48:09,686 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-06-13 12:48:09,756 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 12:48:09,764 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jp_my_ws\springMavenPluto\src\test\resources
